@@ -1,4 +1,4 @@
-Program służy do odczytu danych z plików .tcx pobranych z serwisu Strava
+Program służy do odczytu danych z plików .tcx pobranych z serwisu Strava (https://www.strava.com/)
 Pliki te należy umieścić w katalogu activities
 
 Zalecane środowisko do uruchamiania to VS Code Terminal
