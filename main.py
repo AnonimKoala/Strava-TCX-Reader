@@ -26,7 +26,7 @@ df = pd.DataFrame(activity)
 
 
 # Wyświetla menu
-print('Wybierz zadanie:\n1. Wykres prędkości od dystansu\n2. Wykres średniej prędkości od dystansu\n3. Wykres wysokości od dystansu\n4. Kadencji od dystansu\n5. Wykres pulsu od dystansu\n6. Wykres prędkości od średniej')
+print('Wybierz zadanie:\n1. Wykres prędkości od dystansu\n2. Wykres średniej prędkości od dystansu\n3. Wykres wysokości od dystansu\n4. Wykres kadencji od dystansu\n5. Wykres pulsu od dystansu\n6. Wykres prędkości od średniej prędkości')
 print('7. Średnia prędkość')
 print('8. Średni puls')
 print('9. Średnia wysokość')
